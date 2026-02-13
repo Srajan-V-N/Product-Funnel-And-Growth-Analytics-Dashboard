@@ -133,7 +133,7 @@ Key insights:
 
 ![Page 4](screenshots/User_Quality_&_Segmentation.png)
 
-<p align="center"><b>Fig 3:</b> Customer Quality and Geography.</p>
+<p align="center"><b>Fig 4:</b> Customer Quality and Geography.</p>
 
 This page shifts the analysis from traffic volume to customer value and quality.
 
