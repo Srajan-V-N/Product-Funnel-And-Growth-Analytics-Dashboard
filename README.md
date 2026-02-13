@@ -75,7 +75,7 @@ This modeling approach ensures consistency, scalability, and accurate metric com
 
 ![Page 1](screenshots/Behavioral_Funnel_Analytics.png)
 
-**Fig 1: Funnel and Conversion Analysis**
+<p align="center"><b>Fig 1:</b> Funnel and Conversion Analysis.</p>
 
 This page provides a high-level view of how users move through the product funnel.
 
@@ -95,7 +95,7 @@ Key insights:
 
 ![Page 2](screenshots/Revenue_Impact_Analysis.png)
 
-**Fig 2: Revenue Impact Analysis**
+<p align="center"><b>Fig 2:</b> Revenue Impact Analysis.</p>
 
 This page focuses on the financial implications of user behavior and funnel performance.
 
@@ -114,7 +114,7 @@ Key insights:
 
 ![Page 3](screenshots/Product_Economics.png)
 
-**Fig 3: Product Economics and Profitability**
+<p align="center"><b>Fig 3:</b> Product Economics and Profitability.</p>
 
 This page evaluates product-level financial performance.
 
@@ -133,7 +133,7 @@ Key insights:
 
 ![Page 4](screenshots/User_Quality_&_Segmentation.png)
 
-**Fig 4: Customer Quality and Geography**
+<p align="center"><b>Fig 3:</b> Customer Quality and Geography.</p>
 
 This page shifts the analysis from traffic volume to customer value and quality.
 
@@ -160,6 +160,8 @@ Key insights:
 ---
 
 ## Project Structure
+
+```text
 Product-Funnel-Growth-Analytics-Dashboard/
 │
 ├── data/
@@ -188,7 +190,7 @@ Product-Funnel-Growth-Analytics-Dashboard/
 │ └── User_Quality_&_Segmentation.png
 │
 └── README.md
-
+```
 
 ---
 
